@@ -5,7 +5,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
-  - /shahadat/
 ---
 
 I have been looking for opportunities to....
