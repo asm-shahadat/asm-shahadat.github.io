@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "A S M Shahadat Hossain"
 title_separator          : "-"
 name                     : &name "A S M Shahadat Hossain"
-description              : &description "personal description"
+# description              : &description "personal description"
 url                      : https://asm-shahadat.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "asm-shahadat/asm-shahadat.github.io"
@@ -21,10 +21,10 @@ repository               : "asm-shahadat/asm-shahadat.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "A S M Shahadat Hossain"
   # pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  # bio              : "Short biography for the left-hand sidebar"
   location         : "Chicago, IL, USA"
   # employer         : "Red Brick University"
   uri              : # URL
