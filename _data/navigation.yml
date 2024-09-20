@@ -19,6 +19,9 @@ main:
 
   - title: "Awards"
     url: /portfolio/    
+
+  - title: "News"
+    url: /portfolio/    
     
   - title: "CV"
     url: /files/CV-ASM_Shahadat_Hossain.pdf
