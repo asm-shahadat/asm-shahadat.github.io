@@ -9,19 +9,19 @@ main:
     url: /experience/
 
   - title: "Research"
-    url: /teaching/     
+    url: /research/     
   
   - title: "Publications"
     url: /publications/ 
     
   - title: "Service"
-    url: /markdown/    
+    url: /service/    
 
   - title: "Awards"
-    url: /portfolio/    
+    url: /awards-and-achievements/    
 
   - title: "News"
-    url: /portfolio/    
+    url: /news/    
     
   - title: "CV"
     url: /files/CV-ASM_Shahadat_Hossain.pdf
