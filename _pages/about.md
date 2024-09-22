@@ -13,12 +13,14 @@ I am looking for opportunities to start a PhD in Computer Science. My research i
 
 
 Recent Activities
-=================
+-----------------
 
-* I am looking for opportunities to pursue a PhD degree in Computer Science.
+I am looking for opportunities to pursue a PhD degree in Computer Science.
+
 ------
-* I have successfully defended my master’s thesis titled “Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing.”
+I have successfully defended my master’s thesis titled “Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing.”
+
 ------
-* I have started a new job as an IT Operations Analyst at Fleacto Engineering LLC. 
+I have started a new job as an IT Operations Analyst at Fleacto Engineering LLC. 
 
 
