@@ -15,4 +15,7 @@ My research interests include but are not limited to:
 
 Projects
 --------
+* **Reproducibility of Visualizations in Jupyter Notebooks: Algorithms vs. Programmers** [Details](www.google.com)   
+Changes in visualizations upon rerunning Jupyter Notebooks were tracked and categorized. A set of survey questions
+was proposed to understand the differences between programmers’ perceptions and algorithms for images. 
 * Example project
