@@ -44,9 +44,9 @@ author_profile: true
   * Integrated new processes in Oracle Data Integrator (ODI) at least 2 times a month.
   * Monitored daily Operating System and Database performance of a cluster of 8 Linux servers.
 
-* **Project Engineer (Transmission Optimization and Modernization)**    
+* **Project Engineer (Transmission Optimization & Modernization)**      
   Robi Axiata Limited, Dhaka, Bangladesh        
-  Apr 2018 - Jun 2018    
+  _Apr 2018 - Jun 2018_      
   * Ensured daily implementation support in Project (Agile) Management and Vendor Management.
   * Initiated and monitored at least 10 Network Change Requests initiation and execution per day for 3G to 4G network upgradation.
   
