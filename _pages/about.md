@@ -9,7 +9,7 @@ redirect_from:
 
 I have proven abilities to work under pressure where quick learning and ready-witted problem-solving capabilities are my driving forces. I have recently completed my master’s degree in computer science. I also have a bachelor's degree in computer science and engineering. I have taught computer science undergraduate courses as a Teaching Assistant. Besides, my industry experience includes working in Information Technology domains for a few years. I have worked for leading telecommunication companies in Asia such as Robi Axiata Limited and Grameenphone Limited serving more than 49 million and 83 million subscribers respectively. With my considerable technical and interpersonal skills, I am always open to new challenges and newer opportunities.
 
-I am looking for opportunities to start a PhD in Computer Science. My research interests include but are not limited to Data Management, Machine Learning, Natural Language Processing, and Software Engineering. 
+**I am looking for opportunities to start a PhD in Computer Science. My research interests include but are not limited to Data Management, Machine Learning, Natural Language Processing, and Software Engineering. **
 
 Education
 ---------
@@ -24,13 +24,13 @@ Education
 
 Skills
 ------
-* **Data Analysis**: Machine Learning, and Natural Language Processing using Python libraries such as NumPy, Pandas, ScikitLearn, NLTK, Gensim, Matplotlib, Seaborn, OpenCV, SpaCy, SciPy, TensorFlow, PyTorch, and Keras.
+* **Data Analysis**: Machine Learning, and Natural Language Processing using Python libraries such as NumPy, Pandas, Scikit-Learn, NLTK, Gensim, Matplotlib, Seaborn, OpenCV, SpaCy, SciPy, TensorFlow, PyTorch, and Keras.
 * **Data Management**: Enterprise Data Warehousing, Business Intelligence Data Integration, ETL (Extract, Transform, Load) in
-Oracle, MySQL, and Microsoft SQL Server.
-* **Data Visualization**: Tableau, Microsoft Excel, Microsoft Power BI, and JavaScript D3.
-* **Automation**: tasks automation using Python, PL/SQL, JAVA, Bash, Windows PowerShell, and PHP.
+Oracle, MySQL, and Microsoft SQL Servers.
+* **Data Visualization**: Tableau, Microsoft Power BI, Microsoft Excel, and JavaScript D3.
+* **Automation**: Tasks automation using Python, PL/SQL, JAVA, Bash, Windows PowerShell, and PHP.
 * **System and Server Administration**: Red Hat Linux, SUSE Linux, and Windows.
-* **Interpersonal Skills**: leadership, teamwork, conflict management, patience, and communication.
+* **Interpersonal Skills**: Leadership, teamwork, conflict management, patience, and communication.
 
 Recent Activities
 -----------------
@@ -38,7 +38,7 @@ Recent Activities
 I am looking for opportunities to pursue a PhD degree in Computer Science.
 
 ------
-I have successfully defended my master’s thesis titled “Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing.”
+I have successfully defended my master’s thesis titled “_Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing._”
 
 ------
 I have started a new job as an IT Operations Analyst at Fleacto Engineering LLC. 
