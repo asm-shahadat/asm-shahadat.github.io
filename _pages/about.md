@@ -38,9 +38,10 @@ Recent Activities
 I am looking for opportunities to pursue a PhD degree in Computer Science.
 
 ------
-I have successfully defended my master’s thesis titled “_Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing._”
+I have completed an M.S. in Computer Science from Northern Illinois University, IL, USA.
 
 ------
-I have started a new job as an IT Operations Analyst at Fleacto Engineering LLC. 
+I have successfully defended my master’s thesis titled “_Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing._”
+
 
 
