@@ -15,6 +15,7 @@ author_profile: true
     * CSCI 463: Computer Architecture and Systems Organization; Spring 2022.
     * CSCI 240: Computer Programming in C++; Fall 2020, Spring 2021.
 
+------------
 * **Graduate Staff Assistant (Data Science & Business Intelligence)**      
    Northern Illinois University, DeKalb, IL, USA      
    _Jun 2022 - Sep 2022_      
@@ -23,7 +24,8 @@ author_profile: true
    * Detected and Corrected errors in 13 Python scripts caused due to System Migration (Windows to Linux).
    * Performed Data Migration from flat files to Snowflake (Cloud Computing-based Data Warehouse). 
    * Generated Data Visualization using Microsoft Power BI for Graduate Career and Professional Development portal.
- 
+
+----------- 
 * **Specialist (Customer Insights Platform & Operational Support Systems)**      
   Robi Axiata Limited, Dhaka, Bangladesh      
   _May 2019 - Feb 2021_    
@@ -35,6 +37,7 @@ author_profile: true
   * Analyzed network performance data of approximately 50 million subscribers by using tools and scripts.
   * Performed System Administration of Telecommunication (Transmission, Radio, and Core) Network Management Systems (NMS) and Customer Insights Platforms - 4 developed by Nokia, 6 developed by Huawei, and 2 developed by Ericsson.
 
+------------
 * **Jr. Engineer (Business Intelligence & Data Warehouse)**    
   Grameenphone IT (Wipro Bangladesh) Limited, Dhaka, Bangladesh  
   _Aug 2018 - May 2019_  
@@ -44,6 +47,7 @@ author_profile: true
   * Integrated new processes in Oracle Data Integrator (ODI) at least 2 times a month.
   * Monitored daily Operating System and Database performance of a cluster of 8 Linux servers.
 
+--------------
 * **Project Engineer (Transmission Optimization & Modernization)**      
   Robi Axiata Limited, Dhaka, Bangladesh        
   _Apr 2018 - Jun 2018_      
