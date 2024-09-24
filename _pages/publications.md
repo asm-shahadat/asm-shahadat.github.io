@@ -21,7 +21,7 @@ Conference Papers
   **[Cited by: 43]**     
 
       
-**Work in progress**:  
+**Work in progress:**  
 
 _I have been working on 2 conference papers to be submitted based on my [M.S. thesis](https://www.proquest.com/docview/3100751446) titled "Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing."_
 
