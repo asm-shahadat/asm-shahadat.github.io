@@ -17,10 +17,13 @@ My Google Scholar profile is [here](https://scholar.google.com/citations?user=DQ
 Conference Papers
 -----------------
 
-* **Hossain, ASM Shahadat**. "Customer Segmentation using Centroid Based and Density Based Clustering Algorithms." In _2017 3rd International Conference on Electrical Information and Communication Technology (EICT)_, pp. 1-6. IEEE, 2017.
-    
+* **Hossain, ASM Shahadat**. "Customer Segmentation using Centroid Based and Density Based Clustering Algorithms." In _2017 3rd International Conference on Electrical Information and Communication Technology (EICT)_, pp. 1-6. IEEE, 2017.             
+  **[Cited by: 43]**     
 
-_[I have been working on 2 conference papers to be submitted based on my [M.S. thesis](https://www.proquest.com/docview/3100751446) titled "Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing."]_
+      
+**Work in progress**:  
+
+_I have been working on 2 conference papers to be submitted based on my [M.S. thesis](https://www.proquest.com/docview/3100751446) titled "Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing."_
 
 <!-- New style rendering if publication categories are defined -->
 <!--
