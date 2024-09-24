@@ -36,7 +36,7 @@ Other Services
 * Volunteer (Evaluation), STEM Fest sponsored by Meta and hosted by Northern Illinois University, 2022.
 * Volunteer (MobilePack), Feed My Starving Children, 2021.
 * Volunteer (Laser Fountains & Holograms), STEM Fest sponsored by Facebook and hosted by Northern Illinois University, 2021.
-* Advisor, Tarunya Shakti - A Nonprofit Organization doing humanitarian works, 2020 - 2024.
+* Advisor, Tarunya Shakti - a Nonprofit Organization doing humanitarian works, 2020 - 2024.
 * Team Leader, RUET_Abnormalz - a Competitive Programming team that participated in 8 National and several International Programming Contests. 2013 - 2017.
 * Secretary (Communication), RUET IT Society (RITS), 2017.
 * General Member (Communication), RUET Programmers' Association (RPA) & ACM Lab, 2014 - 2015.
