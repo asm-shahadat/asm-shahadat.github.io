@@ -29,5 +29,5 @@ Awards and Achievements
 * Honorable Mention, IEEE RoboTour & Programming Contest, RUET, Bangladesh, 2014.
 * Honorable Mention, Divisional Math Olympiad (BdMO), Dinajpur, Bangladesh, 2010.
 * Best Speaker, Hakimpur Upazila Debate Competition, Bangladesh, 2009, 2010.
-* Winner, Hakimpur Upazila Inter School Essay Writing Competitions, 2004, 2010.
+* Winner, Hakimpur Upazila Inter School Essay Writing Competitions, Bangladesh, 2004, 2010.
 * Education Board Scholarships, Bangladesh, 2004, 2007, 2010, 2012.
