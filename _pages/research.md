@@ -34,8 +34,8 @@ science conferences assess reproducibility of the submitted works and if there a
 the papers accepted in reproducibility-aware conferences.
 
 -------------
-* **Weather Station using Raspberry PI and Environmental Sensors.** [[Details](https://drive.google.com/file/d/1bHSWAc8fWyGAMf0Phi7SA5jb4rbDHEid/view?usp=sharing)]  
-In this Software Engineering project, an IOT-based Web Interface to report temperature, humidity, and air pressure using Raspberry PI was developed. To make the application elegant, several good software engineering practices were implemented to ensure reliability, scalability, and robustness.
+* **Weather Station using Raspberry Pi and Environmental Sensors.** [[Details](https://drive.google.com/file/d/1bHSWAc8fWyGAMf0Phi7SA5jb4rbDHEid/view?usp=sharing)]  
+In this Software Engineering project, an IOT-based Web Interface to report temperature, humidity, and air pressure using Raspberry Pi was developed. To make the application elegant, several good software engineering practices were implemented to ensure reliability, scalability, and robustness.
 
 --------------
 * **Clinical Trials Categorization using Machine Learning and Natural Language Processing based on their Media Attention.** [[Details](https://drive.google.com/file/d/11aI6B0bhK6Lld2CxDS6OuWx-mVgB1xvc/view?usp=sharing)]    
