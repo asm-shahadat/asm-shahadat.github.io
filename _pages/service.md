@@ -12,7 +12,7 @@ Academic Services
 -----------------
 
 * Student Program Committee
-  * 13th International Conference on the Theory of Information Retrieval SIGIR (ICTIR), 2023.
+  * 13th International Conference on the Theory of Information Retrieval with SIGIR (ICTIR), 2023.
 
 ------------
 * Reviewer
