@@ -25,7 +25,7 @@ Academic Services
 
 -------------
 * Judge, Conference on Undergraduate Research and Engagement (CURE), Northern Illinois University, 2024.
-* Problem Setter and Judge, RUET Analytical Programming Lab (RAPL), 2015-2016. 
+* Problem Setter and Judge, RUET Analytical Programming Lab (RAPL), 2015-2017. 
 
 -----------------
 
