@@ -16,14 +16,15 @@ Academic Services
 
 ------------
 * Reviewer
-  * The 4th International Conference on Electrical, Computer and Energy Technologies (ICECET), 2025.
+  * The 5th International Conference on Electrical, Computer and Energy Technologies (ICECET), 2025.
   * The 4th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), 2024.
-  * The 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering
-(ICECCME), 2023.
+  * The 4th International Conference on Electrical, Computer and Energy Technologies (ICECET), 2024.
+  * The 3rd International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME), 2023.
   * The 3rd International Conference on Electrical, Computer and Energy Technologies (ICECET), 2023.
   * International Conference on Artificial Intelligence, Control, Data Sciences and Applications (ACDSA), 2023.
 
 -------------
+* Judge, Missouri Junior Science and Humanities Symposium (JSHS), University of Missouri, 2025.
 * Judge, Conference on Undergraduate Research and Engagement (CURE), Northern Illinois University, 2024.
 * Problem Setter and Judge, RUET Analytical Programming Lab (RAPL), 2015-2017. 
 
