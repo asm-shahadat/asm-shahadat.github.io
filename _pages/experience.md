@@ -7,6 +7,18 @@ author_profile: true
 
 {% include base_path %}
 
+
+* **Research Assistant**    
+  University of Missouri, Columbia, MO, USA      
+  _Jan 2025 - Present_    
+  * Working in an NSF (National Science Foundation) funded research project:
+    * Designing and Conducting Computational Experiments.
+    * Collaborating with cross-functional teams of scientists from the University of Illinois at Urbana-Champaign and the
+University of Notre Dame.
+    * Preparing Scientific Presentations and Research Paper for Conferences.
+    * Assisting in setting up Research Computing Lab.
+
+------------
 * **Teaching Assistant (Computer Science)**    
   Northern Illinois University, DeKalb, IL, USA      
   _Aug 2020 - May 2024_    
