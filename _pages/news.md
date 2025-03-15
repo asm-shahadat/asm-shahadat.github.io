@@ -7,7 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
-**I am looking for opportunities to start a PhD in Computer Science. My research interests include but are not limited to Data Management, Machine Learning, Natural Language Processing, and Software Engineering.**
+
+[2025-Jan-01]  
+* I have started Ph.D. in Computer Science at University of Missouri, Columbia, MO, USA.
+
+------
+[2025-Jan-01]  
+* I have started working as a Research Assistant at the Department of Electrical Engineering and Computer Science (EECS) of University of Missouri.
 
 ------
 [2024-Aug-11]  
