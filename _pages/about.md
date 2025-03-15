@@ -20,7 +20,7 @@ Education
 
 * **Ph.D. (ongoing) in Computer Science**, [University of Missouri](https://missouri.edu/), Columbia, MO, USA. 2025 - Present.
   
-  Advisor: [Dr. Tanu Malik](https://engineering.missouri.edu/faculty/tanu-malik/).
+  Advisor: [Dr. Tanu Malik](https://engineering.missouri.edu/faculty/tanu-malik/)._
   Research Topic: Reproducibility of Jupyter Notebooks.
 * **M.S. in Computer Science**, [Northern Illinois University](https://www.niu.edu/index.shtml), DeKalb, IL, USA. 2024.
   
