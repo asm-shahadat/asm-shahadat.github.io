@@ -6,20 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!--
-I have proven abilities to work under pressure where quick learning and ready-witted problem-solving capabilities are my driving forces. I have recently completed my master’s degree in computer science. I also have a bachelor's degree in computer science and engineering. I have taught computer science undergraduate courses as a Teaching Assistant. Besides, my industry experience includes working in Information Technology domains for a few years. I have worked for leading telecommunication companies in Asia such as Robi Axiata Limited and Grameenphone Limited serving more than 49 million and 83 million subscribers respectively. With my considerable technical and interpersonal skills, I am always open to new challenges and newer opportunities. 
 
-------------
+I am a Ph.D. student in Computer Science at University of Missouri, Columbia, MO, USA. I have proven abilities to work under pressure where quick learning and problem-solving capabilities are my driving forces. Besides having a master's degree in Computer Science and a bachelor's degree in Computer Science and Engineering, I have worked for leading telecommunication companies in Asia - Robi Axiata Ltd and Grameenphone Ltd which serve more than 49 million and 83 million subscribers respectively. With my considerable technical and interpersonal skills and experience, I am always open to new challenges and newer opportunities.
 
-<b>I am looking for opportunities to start a PhD in Computer Science. My research interests include but are not limited to Data Management, Machine Learning, Natural Language Processing, and Software Engineering.</b>
+I am currently working in a research project funded by the National Science Foundation (NSF), as part of my PhD. As a Research Assistant, I design and conduct computational experiments related to scalability and reproducibility of Jupyter Notebooks. I also collaborate with cross-functional teams of scientists and engineers from the University of Illinois at Urbana-Champaign and the University of Notre Dame.
 
--->
 
 -------------
 
 Education
 ---------
-* **M.S. in Computer Science**, [Northern Illinois University](https://www.niu.edu/index.shtml), IL, USA. 2024.
+
+* **Ph.D. (ongoing) in Computer Science**, [University of Missouri](https://missouri.edu/), Columbia, MO, USA. 2025 - Present.
+  Advisor: [Dr. Tanu Malik](https://engineering.missouri.edu/faculty/tanu-malik/)
+* **M.S. in Computer Science**, [Northern Illinois University](https://www.niu.edu/index.shtml), DeKalb, IL, USA. 2024.
   
   Thesis title: _[Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing.](https://www.proquest.com/docview/3100751446)_  
   Thesis committee: [Dr. David Koop](https://faculty.cs.niu.edu/~dakoop/) (chair), [Dr. Hamed Alhoori](https://alhoori.github.io/) (co-chair), and [Dr. Reva Freedman](https://faculty.cs.niu.edu/~freedman/).
@@ -33,9 +33,9 @@ Education
 
 Skills
 ------
-* **Data Analysis**: Machine Learning, and Natural Language Processing using Python libraries such as NumPy, Pandas, Scikit-learn, NLTK, Gensim, Matplotlib, Seaborn, OpenCV, SpaCy, SciPy, TensorFlow, PyTorch, and Keras.
 * **Data Management**: Enterprise Data Warehousing, Business Intelligence Data Integration, ETL (Extract, Transform, Load) in
 Oracle, MySQL, and Microsoft SQL Servers.
+* **Data Analysis**: Machine Learning, and Natural Language Processing using Python libraries such as NumPy, Pandas, Scikit-learn, NLTK, Gensim, Matplotlib, Seaborn, OpenCV, SpaCy, SciPy, TensorFlow, PyTorch, and Keras.
 * **Data Visualization**: Tableau, Microsoft Power BI, Microsoft Excel, and JavaScript D3.
 * **Automation**: Tasks automation using Python, PL/SQL, JAVA, Bash, Windows PowerShell, and PHP.
 * **System and Server Administration**: Red Hat Linux, SUSE Linux, and Windows.
@@ -46,7 +46,10 @@ Oracle, MySQL, and Microsoft SQL Servers.
 Recent Activities
 -----------------
 
-I am looking for opportunities to pursue a PhD degree in Computer Science.
+I have started Ph.D. in Computer Science at University of Missouri, Columbia, MO, USA.
+
+------
+I have started working as a Research Assistant at the Department of Electrical Engineering and Computer Science (EECS) of University of Missouri.
 
 ------
 I have completed an M.S. in Computer Science from Northern Illinois University, IL, USA.
