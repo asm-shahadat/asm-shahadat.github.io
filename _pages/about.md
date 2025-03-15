@@ -18,6 +18,7 @@ Education
 ---------
 
 * **Ph.D. (ongoing) in Computer Science**, [University of Missouri](https://missouri.edu/), Columbia, MO, USA. 2025 - Present.
+  
   Advisor: [Dr. Tanu Malik](https://engineering.missouri.edu/faculty/tanu-malik/)
 * **M.S. in Computer Science**, [Northern Illinois University](https://www.niu.edu/index.shtml), DeKalb, IL, USA. 2024.
   
@@ -43,8 +44,8 @@ Oracle, MySQL, and Microsoft SQL Servers.
 
 -----------------
 
-Recent Activities
------------------
+### Recent Activities
+
 
 I have started Ph.D. in Computer Science at University of Missouri, Columbia, MO, USA.
 
