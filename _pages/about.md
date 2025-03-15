@@ -34,7 +34,8 @@ Education
 
 ----------------
 
-## Skills
+Skills
+------
 
 * **Data Management**: Enterprise Data Warehousing, Business Intelligence Data Integration, ETL (Extract, Transform, Load) in
 Oracle, MySQL, and Microsoft SQL Servers.
