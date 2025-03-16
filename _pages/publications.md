@@ -18,7 +18,7 @@ Conference Papers
 -----------------
 
 * **Hossain, ASM Shahadat**. "Customer Segmentation using Centroid Based and Density Based Clustering Algorithms." In _2017 3rd International Conference on Electrical Information and Communication Technology (EICT)_, pp. 1-6. IEEE, 2017.             
-  **[Cited by: 47]**     
+  **[Cited by: 49]**     
 
       
 **Work in progress:**  
