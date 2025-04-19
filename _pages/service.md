@@ -24,6 +24,7 @@ Academic Services
   * International Conference on Artificial Intelligence, Control, Data Sciences and Applications (ACDSA), 2023.
 
 -------------
+* Judge, Poster Presentations at Show Me Research Week, University of Missouri, 2025.
 * Judge, Missouri Junior Science and Humanities Symposium (JSHS), University of Missouri, 2025.
 * Judge, Conference on Undergraduate Research and Engagement (CURE), Northern Illinois University, 2024.
 * Problem Setter and Judge, RUET Analytical Programming Lab (RAPL), 2015-2017. 
