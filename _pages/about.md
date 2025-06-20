@@ -11,7 +11,7 @@ I am a Ph.D. student in Computer Science at University of Missouri, Columbia, MO
 
 I am currently working in a research project funded by National Science Foundation (NSF). As a Graduate Research Assistant, I design and conduct computational experiments related to scalability and reproducibility of Jupyter Notebooks. I also collaborate with cross-functional teams of scientists and engineers from the University of Illinois at Urbana-Champaign and the University of Notre Dame.
 
-My research interests include but are not limited to Computational Reproducibility, Data Management Systems, Machine Learning, and Natural Language Processing.
+My research interests include but are not limited to Computational Reproducibility, Data Management, Machine Learning, and Natural Language Processing.
 
 -------------
 
