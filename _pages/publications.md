@@ -14,16 +14,12 @@ author_profile: true
 
 My Google Scholar profile is [here](https://scholar.google.com/citations?user=DQg0PLgAAAAJ&hl=en).  
 
-Conference Papers
------------------
 
-* **Hossain, ASM Shahadat**. "Customer Segmentation using Centroid Based and Density Based Clustering Algorithms." In _2017 3rd International Conference on Electrical Information and Communication Technology (EICT)_, pp. 1-6. IEEE, 2017.             
-  **[Cited by: 49]**     
+* **A S M Shahadat Hossain**, Colin Brown, David Koop, and Tanu Malik, "Similarity-Based Assessment of Computational Reproducibility in Jupyter Notebooks," _ACM Conference on Reproducibility and Replicability (ACM REP ’25)_, Vancouver, BC, Canada, 2025.
+* Md Saiful Islam, Talha Azaz, Raza Ahmad, **A S M Shahadat Hossain**, Furqan Baig, Shaowen Wang, Kevin Lannon, Tanu Malik, and Douglas Thain, "Backpacks for Notebooks: Enabling Containerized Notebook Workflows in Distributed Environments," _21st IEEE International Conference on e-Science (eScience ’25)_, Chicago, IL, USA, 2025.
+* **A S M Shahadat Hossain**, "Customer Segmentation using Centroid Based and Density Based Clustering Algorithms," _3rd International Conference on Electrical Information and Communication Technology (EICT)_, Khulna, Bangladesh, 2017.
 
       
-**Work in progress:**  
-
-_I have been working on 2 conference papers to be submitted based on my [M.S. thesis](https://www.proquest.com/docview/3100751446) titled "Evaluating Computational Reproducibility of Jupyter Notebooks Using Machine Learning and Natural Language Processing."_
 
 <!-- New style rendering if publication categories are defined -->
 <!--
