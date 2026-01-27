@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in Computer Science at University of Missouri, Columbia, MO, USA. I have proven abilities to work under pressure where quick learning and problem-solving capabilities are my driving forces. Besides having a master's degree in Computer Science and a bachelor's degree in Computer Science and Engineering, I have worked for leading telecommunication companies in Asia - Robi Axiata Ltd and Grameenphone Ltd which serve more than 49 million and 83 million subscribers respectively. With my considerable technical and interpersonal skills and experience, I am always open to new challenges and newer opportunities.
+I am a **Ph.D. student** in **Computer Science** at **University of Missouri, Columbia, MO, USA**. I have proven abilities to work under pressure where quick learning and problem-solving capabilities are my driving forces. Besides having a master's degree in Computer Science and a bachelor's degree in Computer Science and Engineering, I have worked for leading telecommunication companies in Asia - Robi Axiata Ltd and Grameenphone Ltd which serve more than 49 million and 83 million subscribers respectively. With my considerable technical and interpersonal skills and experience, I am always open to new challenges and newer opportunities.
 
-I am currently working in a research project funded by National Science Foundation (NSF). As a Graduate Research Assistant, I design and conduct computational experiments related to scalability and reproducibility of Jupyter Notebooks. I also collaborate with cross-functional teams of scientists and engineers from the University of Illinois at Urbana-Champaign and the University of Notre Dame.
+I am currently working in a research project funded by **National Science Foundation (NSF)**. As a Graduate Research Assistant, I design and conduct computational experiments related to **scalability** and **reproducibility** of **Jupyter Notebooks**. I also collaborate with cross-functional teams of scientists and engineers from the **University of Illinois at Urbana-Champaign** and the **University of Notre Dame**.
 
-My research interests include but are not limited to Computational Reproducibility, Data Management, Machine Learning, and Natural Language Processing.
+My research interests include but are not limited to **Computational Reproducibility, Data Management, Machine Learning, and Natural Language Processing.**
 
 -------------
 
